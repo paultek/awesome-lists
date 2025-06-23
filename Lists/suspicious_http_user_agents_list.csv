@@ -1543,5 +1543,5 @@ azurehound*,AzureHound - Azure Data Exporter for BloodHound - default user agent
 *Kali linux*,Kali linux offensive distribution,Kali linux,Exploitation,N/A,critical,none,critical,Detection rule,yes,yes,yes,yes,yes,
 *kali1-686*,Kali linux offensive distribution,Kali linux,Exploitation,N/A,critical,none,critical,Detection rule,yes,yes,yes,yes,yes,
 *kali1-amd64*,Kali linux offensive distribution,Kali linux,Exploitation,N/A,critical,none,critical,Detection rule,yes,yes,yes,yes,yes,
-Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,,,,,,,,,,,,,
-Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36,,,,,,,,,,,,,
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko,Kali linux offensive distribution,Kali linux,Exploitation,N/A,critical,none,critical,Detection rule,yes,yes,yes,yes,yes,
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36,Kali linux offensive distribution,Kali linux,Exploitation,N/A,critical,none,critical,Detection rule,yes,yes,yes,yes,yes,
